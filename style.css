@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-color:aqua;
+}
+
+div{
+    margin-top:15px;
+    display:block;
+}
+.section-style{
+    margin-right:25px;
+    margin-left:25px;
+    background-color:beige;
+}
+
+.image-section{
+    display:flex;
+    justify-content:center;
+}
